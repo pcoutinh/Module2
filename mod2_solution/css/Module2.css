@@ -60,34 +60,34 @@ p {
 }
 
 @media (min-width: 992px) {
-	.col-lg-4{
-		float: left;
-   	width: 33.33%;   
-   	padding:5px;
+  .col-lg-4{
+    float: left;
+    width: 33.33%;   
+    padding:5px;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-	.col-md-6 {
-		float: left;
+  .col-md-6 {
+    float: left;
     width: 50%;
     padding:5px;
    }
 
    #col3 {
-	  clear:left;
-	  padding:5px;
+    clear:left;
+    padding:5px;
   }
 }
 
 @media (max-width: 767px) {
   .container {
-    height:165px;
+    height:215px;
   }
 
-	.col-sm-12{
-		float: left;
-   	width:100%;
-   	padding:5px;
+  .col-sm-12{
+    float: left;
+    width:100%;
+    padding:5px;
    }
 }
