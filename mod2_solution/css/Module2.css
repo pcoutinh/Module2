@@ -49,7 +49,7 @@ p {
 
 .container {     
       padding:5px;
-      height:140px;
+      height:145px;
       border: 1px solid black;
       background-color: gray;
       position:relative;      
@@ -82,7 +82,7 @@ p {
 
 @media (max-width: 767px) {
   .container {
-    height:160px;
+    height:165px;
   }
 
 	.col-sm-12{
